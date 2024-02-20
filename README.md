@@ -20,20 +20,9 @@ Simple calculator:
 		
 
 Matrix calculator:
-	If A =
-	[1, 6]
-	[9, 3.5]
+If A = [1, 6] [9, 3.5] and B = [0 -1] [-1 2],
+input for A value as space-delimited numbers going from row to row, hence: 1 6 9 3.5
+and B: 0 -1 -1 2
 	
-	and B =
-	[0 -1]
-	[-1 2]
-	
-	Input for A value as space-delimited numbers going from row to row, hence:
-	1 6 9 3.5
-	
-	B:
-	0 -1 -1 2
-	
-	
-	Can do matrix addition, subtraction, and multiplication.
-	The input is not cleared unless Clear button is pressed for convenience.
+Can do matrix addition, subtraction, and multiplication.
+The input is not cleared unless Clear button is pressed for convenience.
